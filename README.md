@@ -22,7 +22,7 @@ A **Student Grade Calculator** built using **HTML**, **CSS**, and **JavaScript**
 2. Open the `index.html` file in your browser.
 
 ## 📸 Screenshots
-![Grade Calculator Screenshot)(https://github.com/dishagiri23/Student-Grade-Calculator/blob/36014e34397433050d00e5b07c4a80c00c2df5d5/screenshot.png)
+![Grade Calculator Screenshot) (https://github.com/dishagiri23/Student-Grade-Calculator/blob/36014e34397433050d00e5b07c4a80c00c2df5d5/screenshot.png)
 
 
 ## 🤝 Contributing
